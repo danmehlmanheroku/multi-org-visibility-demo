@@ -2,6 +2,10 @@
 node_modules
 npm-debug.log
 
+# Yarn
+.yarn
+yarn-error.log
+
 # Local development
 *.env
 *.dev
