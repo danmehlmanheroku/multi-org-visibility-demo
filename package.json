@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "heroku-prebuild": "echo 'heroku prebuild'",
+    "heroku-prebuild": "npm install -g yarn@berry",
     "start": "node index.js",
     "test": "node test.js"
   },
