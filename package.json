@@ -28,5 +28,9 @@
     "heroku",
     "express"
   ],
+  "private": true,
+  "workspaces": [
+    "ui"
+  ],
   "license": "MIT"
 }
