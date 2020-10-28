@@ -1,2 +1,2 @@
 web: node index.js
-release: heroku ps:scale web=0
+release: /bin/sh heroku ps:scale web=0
